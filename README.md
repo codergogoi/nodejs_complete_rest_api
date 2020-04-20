@@ -1,4 +1,4 @@
-# nodejs_complete_rest_api
+# NoodeJS Complete REST API
 Rest API complete project build in NodeJS &amp; Express
 
 Config file contents are not added due to keep privacy of the Database and App Key. The possible contents are as follows:
