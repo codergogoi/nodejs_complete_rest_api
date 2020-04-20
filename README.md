@@ -5,7 +5,6 @@ Config file contents are not added due to keep privacy of the Database and App K
 
 files contents:
 config/
-|__
     appConst.js
     {
       exports.MONGODB_URI = "mongodb+srv://dbconnectionURL/blog";
