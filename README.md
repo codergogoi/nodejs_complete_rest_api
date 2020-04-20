@@ -15,8 +15,6 @@ config/
 Post Man Collection for Request:
 https://documenter.getpostman.com/view/8734310/Szf6YUN2
 
-<code> appConst.js
-    {
-      exports.MONGODB_URI = "mongodb+srv://dbconnectionURL/blog";
-      exports.APP_KEY = "app_sceret_to_encrypt_jwt";
-    } </code>
+
+Base URL:<strong> http://localhost:8080 </strong> 
+
